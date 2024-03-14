@@ -1,2 +1,2 @@
-# BloodborneReactApp
- A simple react app using bootstrap for a bloodborne api.
+# ReactGameApp
+ A Simple React API App about Bloodborne
