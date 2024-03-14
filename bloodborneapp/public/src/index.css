@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Brush Script MT', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Brush Script MT', cursive;
+}
+
